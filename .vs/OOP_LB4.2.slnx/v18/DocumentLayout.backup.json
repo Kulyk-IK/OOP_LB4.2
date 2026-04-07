@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\University\\OOP\\OOP_LB4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\trapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|i:\\university\\oop\\oop_lb4.2\\oop_lb4.2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B12727B-08B4-44E3-8261-FCC308A0CB46}|OOP_LB4.2\\OOP_LB4.2.csproj|solutionrelative:oop_lb4.2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trapezoid.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Trapezoid.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\Trapezoid.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Trapezoid.cs",
+              "RelativeToolTip": "OOP_LB4.2\\Trapezoid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:34:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RightTriangle.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\RightTriangle.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\RightTriangle.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\RightTriangle.cs",
+              "RelativeToolTip": "OOP_LB4.2\\RightTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:34:50.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\Rectangle.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Rectangle.cs",
+              "RelativeToolTip": "OOP_LB4.2\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:34:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\IFigure.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\IFigure.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\IFigure.cs",
+              "RelativeToolTip": "OOP_LB4.2\\IFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:33:13.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\Circle.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Circle.cs",
+              "RelativeToolTip": "OOP_LB4.2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:33:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_LB4.2\\Program.cs",
+              "ToolTip": "I:\\University\\OOP\\OOP_LB4.2\\OOP_LB4.2\\Program.cs",
+              "RelativeToolTip": "OOP_LB4.2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:32:52.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
